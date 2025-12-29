@@ -58,6 +58,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.langraph_api
+
 
 # Spyder project settings
 .spyderproject
