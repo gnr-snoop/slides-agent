@@ -1,0 +1,9 @@
+{
+  "$schema": "https://langchain-ai.github.io/langgraph/schemas/langgraph.json",
+  "graphs": {
+    "ppt_agent": "./src/ppt_agent/graph/workflow.py:graph"
+  },
+  "env": ".env",
+  "python_version": "3.12",
+  "dependencies": ["."]
+}
